@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R3SmvF/axxQtyCrbKWjJrdQ8IZMx9E73Xk46xCXKTrYUMVDRy6rfwflrBt4gHIZtMnGKoJmrEBqP0pQDx7UvZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maria\\source\\repos\\Calc\\Calc\\Calc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
